@@ -1,0 +1,13 @@
+generated: '2026-10-25'
+method: searched
+probe: true
+source: https://vali.health/security
+url: https://vali.health/security
+certifications:
+- SOC 2
+- HIPAA
+evidence:
+- source: https://vali.health/security
+  keywords:
+  - soc 2
+  - hipaa

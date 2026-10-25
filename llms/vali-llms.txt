@@ -1,0 +1,28 @@
+# Vali Health
+
+> The AI workforce for home care agencies — with built-in human oversight.
+
+Vali Health (https://vali.health) is the AI workforce for home care agencies. When a shift opens or a caregiver calls out, Vali's AI agents run caregiver outreach by text and voice, fill open shifts, update WellSky, CareSmartz360, or AxisCare, and escalate exceptions to humans — 24/7, including after-hours coverage. Founded by Serena Dang (CEO) and Jason Wu (CTO); $6M seed announced June 2026 (Bonfire Ventures, Supernode, Comma Capital; angel Jacquelyn Kung, ClearCare co-founder). Serving ~100 locations across ~30 states. Agencies report 80% fewer open shifts within two weeks, about 20 hours per week saved, and 98% of scheduling tasks handled autonomously under human oversight. HIPAA-compliant; Vali signs BAAs. Live integrations: WellSky, CareSmartz360, and AxisCare (no rip-and-replace).
+
+## Core Pages
+- [Home](https://vali.health/): Category overview — the AI workforce for home care agencies
+- [Product](https://vali.health/product): How Vali works — AI caregiver scheduling, open shift filling, after-hours coverage
+- [Pricing](https://vali.health/pricing): Pay for coverage, not seats — plans for home care agencies
+- [Book a Demo](https://vali.health/book-a-demo): Schedule a product walkthrough
+- [About Us](https://vali.health/about-us): Founders Serena Dang & Jason Wu
+- [Careers](https://vali.health/careers): Open roles
+- [Contact Us](https://vali.health/contact-us): Sales and support contact
+
+## Proof
+- [Customer Reviews](https://vali.health/reviews): Named home care agency operator quotes
+- [HIT Consultant — $6M seed](https://hitconsultant.net/2026/06/17/vali-health-raises-6-million-home-care-ai/): Third-party funding coverage (June 2026)
+- [citybiz — seed announcement](https://www.citybiz.co/article/861983/vali-health-emerges-with-6m-to-deploy-ai-agents-in-homecare-agencies/): Third-party coverage
+- [The AI Journal — seed announcement](https://aijourn.com/vali-health-raises-6-million-to-fix-the-eldercare-crisis-with-responsible-ai/): Third-party coverage
+- [Crunchbase](https://www.crunchbase.com/organization/vali-health): Company entity profile
+- [LinkedIn](https://www.linkedin.com/company/vali-health/): Company page
+
+## Compliance
+- [Security](https://vali.health/security): HIPAA posture, security controls, SOC 2 status
+- [Business Associate Agreement (BAA)](https://vali.health/baa): Vali signs BAAs with every home care agency customer
+- [Privacy Policy](https://vali.health/privacy-policy): Privacy terms
+- [Terms](https://vali.health/terms): Terms of service

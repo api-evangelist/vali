@@ -1,25 +1,74 @@
 aid: vali
+
 name: Vali
-description: 'Vali is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio;
-  backed by bonfire-ventures) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://cdn.prod.website-files.com/69bc0e97791e8fa883cb21ef/69d9dd7e67dfb880dfa04b95_Open%20graph.png
+
+description: 'Vali provides an AI‑powered workforce platform for home‑care agencies, automating caregiver scheduling, shift fulfillment, and operational oversight. Founded after personal experiences with gaps in in‑home care, Vali’s mission is to strengthen the operational backbone of agencies, ensuring reliable care delivery and reducing caregiver turnover. The platform combines intelligent matching, real‑time coordination, and human oversight to improve efficiency and patient outcomes across the US and Canada.'
+
 url: https://raw.githubusercontent.com/api-evangelist/vali/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:vc-portfolio
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-25 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-25'
+
 modified: '2026-10-25'
+
 tags:
 - Company
-apis: []
+- AI
+- HomeCare
+- Healthcare
+- Workforce
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
-x-backed-by:
-- bonfire-ventures
+
 common:
+- type: Compliance
+  url: https://vali.health/security
+- type: LLMsTxt
+  url: llms/vali-llms.txt
+- type: Hosts
+  url: hosts/vali-hosts.yml
+- type: Vendors
+  url: vendors/vali-vendors.yml
+- type: Security
+  url: https://vali.health/security
+- type: TrustCenter
+  url: security/vali-trust-center.yml
+- type: DomainSecurity
+  url: security/vali-domain-security.yml
 - type: Website
   url: https://vali.health
+- type: Documentation
+  url: https://vali.health/about-us
+- type: Pricing
+  url: https://vali.health/pricing
+- type: Blog
+  url: https://vali.health/blog/stop-losing-revenue-unstaffed-home-care-shifts
+- type: TermsOfService
+  url: https://vali.health/terms
+- type: PrivacyPolicy
+  url: https://vali.health/privacy-policy
+
+apis: []
+
+x-backed-by:
+- bonfire-ventures
+x-enrichment:
+  date: '2026-10-25'
+  status: enriched
+  artifacts_added: 13
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local
